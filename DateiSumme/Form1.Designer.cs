@@ -133,8 +133,9 @@
             // 
             // listBox1
             // 
+            listBox1.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             listBox1.FormattingEnabled = true;
-            listBox1.ItemHeight = 15;
+            listBox1.ItemHeight = 21;
             listBox1.Location = new Point(12, 124);
             listBox1.Name = "listBox1";
             listBox1.Size = new Size(569, 214);
